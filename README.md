@@ -19,6 +19,7 @@ A production-ready E-commerce Backend built using Spring Boot Microservices Arch
 
 ## 🛠️ Tech Stack
 
+- Java 8
 - Java 21
 - Spring Boot
 - Spring Cloud
